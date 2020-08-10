@@ -1,4 +1,9 @@
-### Hi there 👋
+### Добро пожаловать путник, вот моя статистика и не много обо мне. 
+- Я пытаюсь программировать на python ботов и создавать сайты 🌴
+- Постепенно начинаю изучать С++ 🔴
+- Учусь кибер безопасности 🌍
+
+[![stats](https://github-readme-stats.vercel.app/api?username=ilyhalight&show_icons=true&theme=synthwave&title_color=Что&count_private=true)](https://github.com/ilyhalight)
 
 <!--
 **ilyhalight/ilyhalight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
