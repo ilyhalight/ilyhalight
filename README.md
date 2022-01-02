@@ -5,6 +5,8 @@
 
 [![stats](https://github-readme-stats.vercel.app/api?username=ilyhalight&show_icons=true&theme=synthwave&title_color=Что&count_private=true)](https://github.com/ilyhalight)
 
+[![stats](https://wakatime.com/share/@30ec3f37-bc1a-44df-b70a-d6cda6167e7b/3bed04b0-6c7f-45a2-958f-84481c970434.png)](https://github.com/ilyhalight)
+
 <!--
 **ilyhalight/ilyhalight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
