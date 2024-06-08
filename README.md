@@ -5,6 +5,3 @@
 <img src="https://github-profile-trophy.vercel.app/?username=ilyhalight&column=7&margin-w=15&margin-h=15&theme=onedark&no-bg=true&no-frame=true" width="100%" alt="ilyhalight"/>
 
 [![stats](https://github-readme-stats.vercel.app/api?username=ilyhalight&show_icons=true&theme=synthwave&title_color=Что&count_private=true)](https://github.com/ilyhalight)
-
-```math
-\ce{$\unicode[goombafont;pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background-image: url('https://github.com/ilyhalight/ilyhalight/assets/62353659/5fd8a03c-0336-4aaf-81f5-bb49b55a54c1');]{x0000}$}
