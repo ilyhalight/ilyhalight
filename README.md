@@ -2,7 +2,7 @@
 
 [![Languages stats](https://stats-cards.nirel.cc/v1/top-langs/wakatime?username=Toil)](https://github.com/ilyhalight)
 
-See more about me on my [website](https://toil.ws) 🌴
+See more about me on my [website](https://toil.cc) 🌴
 
 <details>
 <summary>other</summary>
