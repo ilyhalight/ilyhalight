@@ -15,8 +15,15 @@ see more about me on my [website](https://toil.cc) 🌴
 <details>
   <summary>other</summary>
 
+#### opencode tools
+
+- [opencode-with-agy](https://github.com/ilyhalight/opencode-with-agy), a plugin to use your Antigravity subscription over the official agy ACP
+- [opencode-with-vibe](https://github.com/ilyhalight/opencode-with-vibe), a plugin to use your Mistral subscription over the official vibe ACP
+- [windows/.config/opencode](https://github.com/ilyhalight/windots/tree/master/.config/opencode), my config with used plugins and skills for opencode
+
 #### random, that i made recently
 
+- [ftt-rs](https://github.com/ilyhalight/ftt-rs), a blazing fast inference engine for fastText models
 - [image-translate](https://github.com/FOSWLY/image-translate), a browser ext for translate images with Yandex OCR API
 - [edge-video-translation](https://github.com/FOSWLY/edge-video-translation), a experimental host of local Edge Video Translation model without browser
 - [lixcy-player](https://github.com/ilyhalight/lixcy-player), a micro player for music with Material You like design and Maloja scrobbles (now vk-audio based) 
